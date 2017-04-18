@@ -9,8 +9,8 @@ var body = document.getElementById("body"),
 
 	div1.classList.add("caja","up");
 	div2.classList.add("caja","down");
-	div3.classList.add("middle1");
-	div4.classList.add("middle2");
+	div3.classList.add("middle","middle1");
+	div4.classList.add("middle","middle2");
 	div5.setAttribute("id","amarillo");
 	div6.setAttribute("id","negro");
 
